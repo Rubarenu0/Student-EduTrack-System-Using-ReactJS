@@ -1,0 +1,38 @@
+.Navbar{
+    flex: 0.5;
+    display: block;
+    background-color: blue;
+    text-align: center;
+    .logo{
+
+        img{
+            height: 100px;
+            width: 100px;
+            border-radius: 50%;
+            margin: 20px;
+        }
+    }
+    .option1,.option2,.option3,.option4,.option5{
+        margin-bottom: 10px;
+    }
+    .icon{
+        font-size: 60px;
+        color: white;
+    }
+    span{
+        text-align: center;
+        color: white;
+    }
+    .row{
+        display: flex;
+        margin-left: 20px;
+
+        .col{
+            margin: 30px;
+        }
+    }
+    .icon1{
+        color: white;
+        font-size: 30px;
+    }
+}
