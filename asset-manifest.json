@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Student-EduTrack-System-Using-ReactJS/static/css/main.25ae256d.css",
+    "main.js": "/Student-EduTrack-System-Using-ReactJS/static/js/main.b22c5b6a.js",
+    "static/js/453.1d897f5a.chunk.js": "/Student-EduTrack-System-Using-ReactJS/static/js/453.1d897f5a.chunk.js",
+    "index.html": "/Student-EduTrack-System-Using-ReactJS/index.html",
+    "main.25ae256d.css.map": "/Student-EduTrack-System-Using-ReactJS/static/css/main.25ae256d.css.map",
+    "main.b22c5b6a.js.map": "/Student-EduTrack-System-Using-ReactJS/static/js/main.b22c5b6a.js.map",
+    "453.1d897f5a.chunk.js.map": "/Student-EduTrack-System-Using-ReactJS/static/js/453.1d897f5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25ae256d.css",
+    "static/js/main.b22c5b6a.js"
+  ]
+}
